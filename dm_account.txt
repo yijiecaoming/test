@@ -1,0 +1,9 @@
+------------------第二作业室----------------
+DM DATABASES
+
+IP 192.168.22.201
+Port 5236
+Account SYSDBA
+Password SYSDBA
+
+mode name "zlzyyx"
